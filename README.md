@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-Two projects for the *Machine Learning* course (MSc in Engineering in Computer Science and AI, Sapienza University of Rome, A.Y. 2025/26), made with **Giacomo Aroni**. Each folder has the notebooks and the written report.
+Two projects for the *Machine Learning* course (MSc in Engineering in Computer Science and AI, Sapienza University of Rome, A.Y. 2025/26), made with **Giacomo Aroni https://github.com/iamgiac**. Each folder has the notebooks and the written report.
 
 | # | Project | Tasks | Stack |
 |---|---|---|---|
